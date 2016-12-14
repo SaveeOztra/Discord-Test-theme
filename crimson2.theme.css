@@ -1,22 +1,22 @@
 {} /* Backgrounds */
 
 .app {
-    background-image: url("https://imgur.com/BAmLqvy.jpg");
+    background-image: url("http://imgur.com/22Uv5K2");
     background-size: cover !important;
     background-position: center !important;
 }
 .callout-backdrop {
-    background: url("https://imgur.com/BAmLqvy.jpg");
+    background: url("http://imgur.com/22Uv5K2");
     background-size: cover !important;
     background-position: center !important;
     opacity:0.9 !important;
 }
 .bda-backdrop {
-    background: url("https://imgur.com/BAmLqvy.jpg")!important;
+    background: url("http://imgur.com/22Uv5K2")!important;
     background-size: cover!important;
 }
 #pubs-container:before {
-	background: url("https://imgur.com/BAmLqvy.jpg")!important;
+	background: url("http://imgur.com/22Uv5K2")!important;
     background-size: cover!important;
 }
 
