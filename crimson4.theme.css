@@ -1,15 +1,16 @@
 {} /* Backgrounds */
 
 .app {
-    background-image: url("https://i.imgur.com/q8NCGHH.jpg");
-    background-size: cover !important;
-    background-position: center !important;
+    background-image: url("https://i.imgur.com/P0k3VRY.jpg") !important;
+    background-size: 1500px 900px !important;
+    background-repeat: no-repeat !important;
 }
+
 .callout-backdrop {
-    background: url("https://i.imgur.com/q8NCGHH.jpg");
-    background-size: cover !important;
-    background-position: center !important;
     opacity:0.9 !important;
+    background: url("https://i.imgur.com/CcntY8Y.jpg") !important;
+    background-size: 1500px 900px !important;
+    background-repeat: no-repeat !important;
 }
 .bda-backdrop {
     background: url("https://i.imgur.com/NUhSyNd.jpg")!important;
